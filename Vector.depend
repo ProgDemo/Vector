@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521540474 source:e:\elte\prog_demo\vector\main.cpp
+	<iostream>
+	"Standard.h"
+	<vector>
+
+1521538709 source:e:\elte\prog_demo\vector\standard.cpp
+
+1521541767 e:\elte\prog_demo\vector\standard.h
+
